@@ -57,4 +57,3 @@ This script is provided for educational purposes only. The author and contributo
 
 ---
 
-Feel free to customize this README according to your needs or to include any additional information. Make sure to include any relevant legal disclaimers and ethical considerations.
